@@ -1,0 +1,786 @@
+.tabBox {
+    height: 900px;
+    width: 1100px;
+    margin: 0px auto;
+}
+
+.heading6 {
+    margin-top: 70px;
+    font-weight: bolder;
+    text-align: center;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+
+.heading7 {
+    opacity: 0.7;
+    color: #172c41ab;
+    text-align: center;
+}
+
+.buttons {
+    position: relative;
+    top: 35px;
+    left: 20px;
+    height: 110px;
+}
+
+.content1 {
+    position: relative;
+    top: -15px;
+}
+
+.content1-1 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 50px;
+    height: 630px;
+    width: 320px;
+}
+
+.content1-2 {
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    height: 630px;
+    width: 320px;
+}
+
+.content1-3 {
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    height: 630px;
+    width: 320px;
+}
+
+.content2 {
+    position: relative;
+    top: -15px;
+}
+
+.content2-1 {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    height: 630px;
+    width: 320px;
+}
+
+.content2-2 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 400px;
+    height: 630px;
+    width: 320px;
+}
+
+.content2-3 {
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    height: 630px;
+    width: 320px;
+}
+
+.content3 {
+    position: relative;
+    top: -15px;
+}
+
+.content3-1 {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    height: 630px;
+    width: 320px;
+}
+
+.content3-2 {
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    height: 630px;
+    width: 320px;
+}
+
+.content3-3 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 750px;
+    height: 630px;
+    width: 320px;
+}
+
+.content4 {
+    position: relative;
+    top: -15px;
+}
+
+.content4-1 {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    height: 630px;
+    width: 320px;
+}
+
+.content4-2 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 400px;
+    height: 630px;
+    width: 320px;
+}
+
+.content4-3 {
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    height: 630px;
+    width: 320px;
+}
+
+.content5 {
+    position: relative;
+    top: -15px;
+}
+
+.content5-1 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 50px;
+    height: 630px;
+    width: 320px;
+}
+
+.content5-2 {
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    height: 630px;
+    width: 320px;
+}
+
+.content5-3 {
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    height: 630px;
+    width: 320px;
+}
+.content6 {
+    position: relative;
+    top: 20px;
+}
+
+.content6-1 {
+    position: absolute;
+    border-radius: 10px;
+    top: 70px;
+    left: 50px;
+    height: 230px;
+    width: 520px;
+}
+
+.content6-2 {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    height: 230px;
+    width: 320px;
+}
+
+.content7 {
+    position: relative;
+    top: 20px;
+}
+
+.content7-1 {
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    height: 230px;
+    width: 320px;
+}
+
+.content7-2 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 700px;
+    height: 230px;
+    width: 320px;
+}
+
+.content8 {
+    position: relative;
+    top: 20px;
+}
+
+.content8-1 {
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    height: 230px;
+    width: 320px;
+}
+
+.content8-2 {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    height: 230px;
+    width: 320px;
+}
+
+.content9 {
+    position: relative;
+    top: 20px;
+}
+
+.content9-1 {
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    height: 230px;
+    width: 320px;
+}
+
+.content9-2 {
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 700px;
+    height: 230px;
+    width: 320px;
+}
+
+.content10 {
+    position: relative;
+    top: 20px;
+}
+
+.content10-1 {
+    position: absolute;
+    border-radius: 10px;
+    top: 70px;
+    left: 50px;
+    height: 230px;
+    width: 320px;
+}
+
+.content10-2 {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    height: 230px;
+    width: 320px;
+}
+.content11 {
+    position: relative;
+    top: 20px;
+}
+
+.content11-1 {
+    position: absolute;
+    border-radius: 10px;
+    top: 70px;
+    left: 50px;
+    height: 230px;
+    width: 320px;
+}
+
+.content11-2 {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    height: 230px;
+    width: 320px;
+}
+
+
+.button1 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    left: 350px;
+}
+
+.button1-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    left: 350px;
+}
+
+.button2 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    left: 480px;
+}
+
+.button2-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    left: 480px;
+}
+
+.button3 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    left: 580px;
+}
+
+.button3-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    left: 580px;
+}
+
+
+.button6 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    left: 370px;
+}
+
+.button6-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    left: 370px;
+}
+
+.button7 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    left: 500px;
+}
+
+.button7-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    left: 500px;
+}
+
+.button8 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    left: 650px;
+}
+
+.button8-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    left: 630px;
+}
+
+.button9 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    top: 60px;
+    left: 380px;
+}
+
+.button9-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    top: 60px;
+    left: 380px;
+}
+
+.button10 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    top: 60px;
+    left: 505px;
+}
+
+.button10-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    top: 60px;
+    left: 505px;
+}
+.button11 {
+    position: absolute;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, goldenrod, black);
+    font-weight: 600;
+    padding: 10px;
+    top: 60px;
+    left: 625px;
+}
+
+.button11-1 {
+    position: absolute;
+    border: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    top: 60px;
+    left: 625px;
+}
+
+.LogoBox{
+    height: 300px;
+    width: 1100px;
+    position: relative;
+    margin: 0px auto;
+    top: 10px;
+}
+.TabList2{
+    height: 550px;
+    width: 1200px;
+    margin: 30px auto;
+}
+.buttons2{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 110px;
+    width: 1000px; 
+}
+.LogoText1{
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+.LogoText2{
+    position: absolute;
+    font-size: 15px;
+    left: 560px;
+    top: 90px;
+    width: 600px;
+
+}
+
+.card{
+    box-shadow: 5px 5px 10px black;
+}
+
+@media screen and (max-width: 500px){
+    .heading6{
+        width: 400px;
+        margin-left: 10px;
+        text-align: left;
+    }
+    .heading7{
+        width: 400px;
+        margin-left: 10px;
+        text-align: left;
+    }
+    .tabBox{
+        width: 100%;
+        height: 2100px;
+    }
+    .buttons{
+        position: relative;
+        height: 150px;
+        width: 450px;
+        margin-left: -350px;
+    }
+    .button1{
+        width: 115px;
+        text-align: left;
+    }
+    .button1-1{
+        width: 115px;
+        text-align: left;
+    }
+    .button4{
+        width: 150px;
+        text-align: left;
+    }
+    .button4-1{
+        width: 117px;
+        text-align: left;
+    }
+    .content1-1{
+        left: 20px;
+        top: 10px;
+    }
+    .content1-2{
+        left: 20px;
+        top: 680px;
+    }
+    .content1-3{
+        left: 20px;
+        top: 1250px;
+    }
+    .content2-1{
+        left: 20px;
+        top: 10px;
+    }
+    .content2-2{
+        left: 20px;
+        top: 680px;
+    }
+    .content2-3{
+        left: 20px;
+        top: 1340px;
+    }
+    .content3-1{
+        left: 20px;
+        top: 10px;
+    }
+    .content3-2{
+        left: 20px;
+        top: 680px;
+    }
+    .content3-3{
+        left: 20px;
+        top: 1340px;
+    }
+    .content4-1{
+        left: 20px;
+        top: 10px;
+    }
+    .content4-2{
+        left: 20px;
+        top: 680px;
+    }
+    .content4-3{
+        left: 20px;
+        top: 1340px;
+    }
+    .content5-1{
+        left: 20px;
+        top: 10px;
+    }
+    .content5-2{
+        left: 20px;
+        top: 680px;
+    }
+    .content5-3{
+        left: 20px;
+        top: 1250px;
+    }
+    .LogoBox{
+        width: 100%;
+        height: 410px;
+        margin-left: 0px;
+        top: 10px;
+    }
+    .LogoText2{
+        position: absolute;
+        text-align: left;
+        font-size: 15px;
+        left: 30px;
+        top: 210px;
+        width: 350px;
+    }
+    .TabList2{
+        width: 100%;
+    }
+    .buttons2{
+        width: 100%;
+        height: 130px;
+        margin-left: -370px;
+    }
+    .button6{
+        width: 125px;
+        text-align: left;
+    }
+    .button6-1{
+        width: 125px;
+        text-align: left;
+    }
+    .button7{
+        width: 120px;
+        text-align: left;
+    }
+    .button7-1{
+        width: 120px;
+        text-align: left;
+    }
+    .button9{
+        width: 115px;
+        text-align: left;
+    }
+    .button9-1{
+        width: 115px;
+        text-align: left;
+    }
+    .button10{
+        width: 110px;
+        text-align: left;
+    }
+    .button10-1{
+        width: 110px;
+        text-align: left;
+    }
+    .hr1{
+        width: 380px !important;
+        margin-left: 15px;
+    }
+    .hr2{
+        width: 380px !important;
+        margin-left: 15px !important;
+    }
+    .TabList2{
+        height: 750px;
+    }
+    .content6{
+        width: 100%;
+        left: -30px;
+    }
+    .content7{
+        width: 100%;
+        left: -30px;
+    }
+    .content8{
+        width: 100%;
+        left: -30px;
+    }
+    .content9{
+        width: 100%;
+        left: -30px;
+    }
+    .content10{
+        width: 100%;
+        left: -30px;
+    }
+    .content11{
+        width: 100%;
+        left: -30px;
+    }
+
+    .logopara1{
+        width: 100% !important;
+    }
+    .logopara2{
+        width: 100% !important;
+    }
+    .logopara3{
+        width: 100% !important;
+    }
+    .logopara4{
+        width: 100% !important;
+    }
+    .logopara5{
+        width: 100% !important;
+    }
+    .logopara6{
+        width: 100% !important;
+    }
+    .content6-2{
+        position: absolute;
+        left: 0px;
+        top: 310px;
+    }
+   .logoimg1{
+    width: 350px !important;
+    margin-top: 10px;
+    margin-left: 60px !important;
+   }
+    .content7-2{
+        position: absolute;
+        left: 0px;
+        top: 310px;
+    }
+   .logoimg2{
+    width: 350px !important;
+    margin-left: 60px !important;
+   }
+    .content8-2{
+        position: absolute;
+        left: 0px;
+        top: 310px;
+    }
+   .logoimg3{
+    width: 350px !important;
+    margin-top: 20px;
+    margin-left: 60px !important;
+   }
+    .content9-2{
+        position: absolute;
+        left: 0px;
+        top: 310px;
+    }
+   .logoimg4{
+    width: 350px !important;
+    margin-top: 40px;
+    margin-left: 60px !important;
+   }
+    .content10-2{
+        position: absolute;
+        left: 0px;
+        top: 310px;
+    }
+   .logoimg5{
+    width: 350px !important;
+    margin-top: 20px;
+    margin-left: 60px !important;
+   }
+    .content11-2{
+        position: absolute;
+        left: 0px;
+        top: 310px;
+    }
+   .logoimg6{
+    width: 350px !important;
+    margin-top: 20px;
+    margin-left: 60px !important;
+   }
+}

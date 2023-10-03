@@ -1,0 +1,160 @@
+.services{
+    position: relative;
+    left: 0px;
+    top: 50px;
+    height: 720px;
+}
+.service1{
+    position: absolute;
+    left: 230px;
+    height: 280px;
+    width: 300px;
+    box-shadow: 5px 5px 10px gray;
+}
+.img2{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.service2{
+    position: absolute;
+    height: 280px;
+    width: 300px;
+    left: 580px;
+    box-shadow: 5px 5px 10px gray;
+}
+.img3{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.service3{
+    position: absolute;
+    height: 280px;
+    width: 300px;
+    left: 930px;
+    box-shadow: 5px 5px 10px gray;
+}
+.img4{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.service4{
+    position: absolute;
+    height: 280px;
+    width: 300px;
+    left: 230px;
+    top: 350px;
+    box-shadow: 5px 5px 10px gray;
+}
+.img5{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.service5{
+    position: absolute;
+    height: 280px;
+    width: 300px;
+    width: 300px;
+    left: 580px;
+    top: 350px;
+    box-shadow: 5px 5px 10px gray;
+}
+.img6{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.service6{
+    position: absolute;
+    height: 280px;
+    width: 300px;
+    left: 930px;
+    top: 350px;
+    box-shadow: 5px 5px 10px gray;
+}
+.img7{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+h6{
+    text-align: center;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 500px){
+    .ServicesHeading{
+        width: 100%;
+        margin-left: 10px !important;
+    }
+    .services{
+        height: 1900px;
+        width: 100%;
+        display: flex ;
+        flex-wrap: wrap;
+        margin-left: 0px;
+    }
+    .service1{
+        width: 90%;
+        margin-left: -150px;
+        flex-wrap: wrap;
+    }
+    .img2{
+        margin-left: 140px;
+    }
+    .service2{
+        width: 90%;
+        margin-top: 300px;
+        margin-left: -500px;
+        flex-wrap: wrap;
+    }
+    .img3{
+        margin-left: 140px;
+    }
+    .service3{
+        width: 90%;
+        left: 50px;
+        top: 600px;
+        flex-wrap: wrap;
+    }
+    .img4{
+        margin-left: 140px;
+    }
+    .service4{
+        width: 90%;
+        left: 50px;
+        top: 900px;
+        flex-wrap: wrap;
+    }
+    .img5{
+        margin-left: 140px;
+    }
+    .service5{
+        width: 90%;
+        left: 50px;
+        top: 1200px;
+        flex-wrap: wrap;
+    }
+    .img6{
+        margin-left: 140px;
+    }
+    .service6{
+        width: 90%;
+        left: 50px;
+        top: 1500px;
+        flex-wrap: wrap;
+    }
+    .img7{
+        margin-left: 140px;
+    }
+}
+

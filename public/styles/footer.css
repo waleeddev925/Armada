@@ -1,0 +1,120 @@
+.Footer {
+    position: relative;
+    height: 550px;
+    width: 1150px;
+    margin: 100px auto;
+    bottom: 0px;
+    box-shadow: -5px -5px  20px gray;
+}
+
+.FooterText {
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    width: 600px;
+    height: 400px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.FooterLinks {
+    position: relative;
+    position: absolute;
+    top: 90px;
+    left: 800px;
+    width: 400px;
+    height: 300px;
+}
+.LeftLinks{
+    position: absolute;
+    left: 0px;
+    width: 50%;
+    height: 250px;
+}
+.RightLinks{
+    position: absolute;
+    right: 0px;
+    width: 50%;
+    height: 250px;
+}
+
+.FooterEnd {
+    position: absolute;
+    bottom: 30px;
+    left: 325px;
+    width: 650px;
+    height: 20px;
+}
+
+.heading8 {
+    font-size: 50px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(360deg, #e33c34, #ef7d23, #7cb042, #3b81c3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.flex1{
+    flex: 4;
+}
+
+.flex2{
+    flex: 1;
+}
+.PriceButton{
+    box-shadow: -5px 5px 5px gray;
+}
+.btn5{
+    background: linear-gradient(to right, goldenrod, black);
+    color: white !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700 !important;
+    width: 160px;
+    padding: 10px !important;
+    border: none;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 500px){
+    .Footer{
+        width: 100%;
+        height: 1000px;
+        margin-left: 0px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .FooterEnd{
+        width: 100%;
+        margin-left: -320px;
+        text-align: center;
+    }
+    
+    .heading8{
+        width: 300px;
+
+    }
+    .paragraph{
+        width: 350px;
+        text-align: left;
+    }
+    .FooterLinks{
+      width: 100%;
+      margin-left: -785px;
+      margin-top: 480px;
+    }
+    .FooterImg{
+        width: 10%;
+    }
+    .FooterText{
+        width: 100%;
+        margin-left: -10px;
+        text-align: left;
+    }
+   .RightLinks{
+    width: 100%;
+    margin-top: 200px;
+   }
+}
